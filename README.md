@@ -1,4 +1,4 @@
-# telecom-template
+# Telecom template
 
 ## Build Setup
 
